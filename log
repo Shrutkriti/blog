@@ -1,0 +1,32 @@
+$ git log
+commit 7ca4418bde51efb6445e8070cac1119fd3dcdf3e (HEAD -> master, origin/master)
+Author: Shrutkriti Singh <shrutkriti1995@gmail.com>
+Date:   Tue Jan 19 12:04:04 2021 +0530
+
+    conflict while pushing as another user pushed some file already
+
+commit 3a0e66159cf87ecd0367bbcf2200eaf8dd9045e8
+Merge: 9c888b0 4edf527
+Author: Shrutkriti Singh <shrutkriti1995@gmail.com>
+Date:   Tue Jan 19 11:58:12 2021 +0530
+
+    Merge branch 'master' of github.com:Shrutkriti/blog
+
+commit 4edf5271d33aaa1e14c4e205a1ca66a9a8ca0f69
+Author: John Doe <johndoe@example.com>
+Date:   Tue Jan 19 11:51:58 2021 +0530
+
+    my commit
+
+commit 9c888b01a3b546e1070700700d2fc886ba868abe
+Author: Shrutkriti Singh <shrutkriti1995@gmail.com>
+Date:   Tue Jan 19 11:48:27 2021 +0530
+
+    user1 commit
+
+commit 6bd4ca624a02d88ab87f97b8f21e211b136dc683
+Author: Shrutkriti Singh <shrutkriti1995@gmail.com>
+Date:   Tue Jan 19 11:22:40 2021 +0530
+
+    First commit
+
